@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" 国别"</string>
+    <string name="textViewPais">中国</string>
+    <string name="textViewComida">小笼包</string>
+
+</resources>

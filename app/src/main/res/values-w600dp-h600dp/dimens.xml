@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="comida_text_size">60sp</dimen>
+    <dimen name="pais_text_size">60sp</dimen>
+    <dimen name="bandeira_layout_width">300dp</dimen>
+    <dimen name="comida_layout_width">300dp</dimen>
+</resources>
